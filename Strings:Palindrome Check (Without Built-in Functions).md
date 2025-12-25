@@ -13,8 +13,11 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 
-Add code here
+<img width="846" height="146" alt="image" src="https://github.com/user-attachments/assets/991be766-e1ec-47d7-87a5-68c907e606c9" />
 
 ## Output
 
+<img width="985" height="197" alt="image" src="https://github.com/user-attachments/assets/2e7c44ad-b6b4-42b8-894c-8dceda16ba8f" />
+
 ## Result
+Thus the given program is verified and executed sucessfully.
